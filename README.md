@@ -1,2 +1,2 @@
 # codedev
-To test terraform VM modulke
+To test terraform VM module
